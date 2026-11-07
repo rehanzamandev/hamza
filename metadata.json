@@ -1,0 +1,6 @@
+{
+  "name": "Rehan Wining Toys - Online Toy Store & Wholesale Deals",
+  "description": "Shop premium toys, RC cars, educational toys, and dolls at Rehan Wining Toys Faqirwali. Enjoy exclusive discounts, special promo offers, and easy WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,603 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "4WD Rock Crawler Monster Remote Control Off-Road Truck",
+      "urduName": "4WD مونسٹر راک کرالر ریموٹ کنٹرول ٹرک",
+      "category": "rc-vehicles",
+      "price": 3850,
+      "originalPrice": 5200,
+      "discountPercent": 26,
+      "isOffer": true,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isFlashSale": true,
+      "stockQuantity": 17,
+      "rating": 4.9,
+      "reviewsCount": 38,
+      "images": [
+        "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1516981879613-9f5da904015f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Heavy duty 1:16 scale four-wheel drive rock crawler with shock absorbers, rechargeable battery pack, dual motors, and 2.4GHz remote controller with 50-meter range. Clambers over sand, grass, and rocks effortlessly.",
+      "features": [
+        "Rechargeable 4.8V 700mAh battery included with USB charger",
+        "Independent 4-wheel spring suspension system",
+        "Anti-skid rubber oversized tires for rugged terrain",
+        "2.4GHz remote for zero interference racing"
+      ],
+      "ageGroup": "6+ Years",
+      "sku": "RWT-RC-001",
+      "createdAt": "2026-10-15T10:00:00.000Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Smart Interactive Talking Robot with Voice & Gesture Control",
+      "urduName": "اسمارٹ بات کرنے والا ڈانسنگ روبوٹ",
+      "category": "educational",
+      "price": 2950,
+      "originalPrice": 4200,
+      "discountPercent": 30,
+      "isOffer": true,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isFlashSale": true,
+      "stockQuantity": 12,
+      "rating": 4.8,
+      "reviewsCount": 24,
+      "images": [
+        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Futuristic programmable robot companion with LED emotional eyes, music playback, dance moves, obstacle detection sensors, and voice repetition mode.",
+      "features": [
+        "Hand gesture sensor control: forward, backward, left, right",
+        "Interactive English phrases and upbeat cheerful nursery rhymes",
+        "Smooth gliding wheeled feet with dance demonstrations",
+        "USB fast-charging battery with 60 minutes playtime"
+      ],
+      "ageGroup": "3-10 Years",
+      "sku": "RWT-ED-002",
+      "createdAt": "2026-10-18T12:00:00.000Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Luxury Villa 3-Story Dollhouse with LED Lights & Furniture Set",
+      "urduName": "لگژری گڑیا کا گھر مع فرنیچر اور لائٹس",
+      "category": "dolls-pretend",
+      "price": 5490,
+      "originalPrice": 7500,
+      "discountPercent": 27,
+      "isOffer": true,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isFlashSale": false,
+      "stockQuantity": 8,
+      "rating": 4.9,
+      "reviewsCount": 19,
+      "images": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Breathtaking 3-level doll mansion with 5 themed rooms, miniature staircase, balcony, 22 pieces of lifelike furniture, 2 mini fashion dolls, and fairy LED string lights.",
+      "features": [
+        "Eco-friendly smooth ABS child-safe material",
+        "Includes bed, sofa, dining set, vanity mirror, and bathroom accessories",
+        "Fairy lights included for magical night ambiance",
+        "Encourages imaginative story-telling and roleplay"
+      ],
+      "ageGroup": "3+ Years",
+      "sku": "RWT-DL-003",
+      "createdAt": "2026-10-20T08:30:00.000Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Kids 3-in-1 Foldable Kick Scooter with LED Flashing Wheels",
+      "urduName": "بچوں کا فولڈ ایبل سکوٹر مع لائٹنگ والے پہیے",
+      "category": "ride-on",
+      "price": 3200,
+      "originalPrice": 4500,
+      "discountPercent": 29,
+      "isOffer": true,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isFlashSale": false,
+      "stockQuantity": 15,
+      "rating": 4.7,
+      "reviewsCount": 31,
+      "images": [
+        "https://images.unsplash.com/photo-1597843797221-1b920bf8244f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Sturdy 3-wheel scooter engineered with lean-to-steer technology. Features dynamic magnetic LED flashing wheels that glow brightly without batteries whenever rolling.",
+      "features": [
+        "Adjustable 4-level T-bar handle for growing kids",
+        "Extra-wide anti-slip deck supporting up to 50 kg",
+        "Rear fender foot brake for smooth emergency stops",
+        "One-button quick fold mechanism for easy car trunk storage"
+      ],
+      "ageGroup": "3-8 Years",
+      "sku": "RWT-RO-004",
+      "createdAt": "2026-10-22T14:15:00.000Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "108-Piece Magnetic Building Tiles STEM Construction Set",
+      "urduName": "مقناطیسی بلڈنگ بلاکس سیٹ 108 ٹکڑے",
+      "category": "educational",
+      "price": 3600,
+      "originalPrice": 4800,
+      "discountPercent": 25,
+      "isOffer": true,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isFlashSale": true,
+      "stockQuantity": 22,
+      "rating": 5,
+      "reviewsCount": 42,
+      "images": [
+        "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Vivid translucent 3D geometric magnetic blocks. Kids can build tall castles, towers, geometric spheres, rockets, and vehicles with strong neodymium safety magnets.",
+      "features": [
+        "108 rainbow color pieces including squares, triangles, windows, and wheels",
+        "Sonic-welded BPA-free edges for 100% child safety",
+        "Develops spatial thinking, math, physics, and creativity",
+        "Comes with idea booklet and waterproof drawstring storage bag"
+      ],
+      "ageGroup": "3+ Years",
+      "sku": "RWT-ED-005",
+      "createdAt": "2026-10-25T09:00:00.000Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Transforming Robot Car with One-Button RC Deform & 360 Spin",
+      "urduName": "ٹرانسفارمر روبوٹ کار مع ریموٹ کنٹرول",
+      "category": "rc-vehicles",
+      "price": 2450,
+      "originalPrice": 3500,
+      "discountPercent": 30,
+      "isOffer": true,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isFlashSale": true,
+      "stockQuantity": 25,
+      "rating": 4.8,
+      "reviewsCount": 56,
+      "images": [
+        "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Exciting police sports car transforms automatically into a combat warrior robot with a single push of the remote button! Has cool blue xenon headlights and engine roar sounds.",
+      "features": [
+        "One-button transformation from car to standing robot",
+        "360-degree drifting rotation in both car and robot modes",
+        "High-speed RC driving with realistic engine sound effects",
+        "Rechargeable car battery with USB charging cord"
+      ],
+      "ageGroup": "4+ Years",
+      "sku": "RWT-RC-006",
+      "createdAt": "2026-10-28T16:00:00.000Z"
+    },
+    {
+      "id": "prod-7",
+      "name": "Modern Chef Little Gourmet Kitchen Play Set with Real Steam & Sounds",
+      "urduName": "باورچی کچن پلے سیٹ مع حقیقی بھاپ اور آوازیں",
+      "category": "dolls-pretend",
+      "price": 4800,
+      "originalPrice": 6500,
+      "discountPercent": 26,
+      "isOffer": true,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isFlashSale": false,
+      "stockQuantity": 10,
+      "rating": 4.7,
+      "reviewsCount": 18,
+      "images": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Deluxe pretend kitchen with realistic boiling sound, mist steam vapor function on the stove burner, running water sink tap, chalkboard menu, and 38 cooking accessories.",
+      "features": [
+        "Safe cool-mist water spray mimics real cooking steam",
+        "Working sink with battery-operated circulating water pump",
+        "Includes frying pan, pot, utensils, vegetables, condiment jars",
+        "Height designed perfectly for toddlers & young kids"
+      ],
+      "ageGroup": "2-7 Years",
+      "sku": "RWT-DL-007",
+      "createdAt": "2026-11-01T11:20:00.000Z"
+    },
+    {
+      "id": "prod-8",
+      "name": "Jurassic World Walking T-Rex Dinosaur with Roar & LED Eye Glow",
+      "urduName": "چلنے والا بڑا ٹی ریکس ڈائنوسار مع دہاڑ",
+      "category": "action-figures",
+      "price": 2750,
+      "originalPrice": 3800,
+      "discountPercent": 28,
+      "isOffer": true,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isFlashSale": true,
+      "stockQuantity": 14,
+      "rating": 4.9,
+      "reviewsCount": 29,
+      "images": [
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Realistic 18-inch Tyrannosaurus Rex with lifelike skin texture, motorized walking action, shaking tail, glowing fiery eyes, and ferocious authentic prehistoric roar sounds.",
+      "features": [
+        "Motorized auto-walking with realistic foot stomps",
+        "Mouth opens and closes while roaring",
+        "LED lighting effects in eyes and tongue",
+        "Durable drop-resistant non-toxic PVC build"
+      ],
+      "ageGroup": "3+ Years",
+      "sku": "RWT-AF-008",
+      "createdAt": "2026-11-02T13:45:00.000Z"
+    },
+    {
+      "id": "prod-9",
+      "name": "Musical Activity Baby Walker & Learning Table 2-in-1",
+      "urduName": "موزیکل بیبی واکر اور لرننگ ٹیبل",
+      "category": "baby-toddler",
+      "price": 3900,
+      "originalPrice": 5200,
+      "discountPercent": 25,
+      "isOffer": false,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isFlashSale": false,
+      "stockQuantity": 11,
+      "rating": 4.9,
+      "reviewsCount": 16,
+      "images": [
+        "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Helps babies take their joyful first steps safely with triangular balance structure and non-slip rubber rings. Detachable front panel converts into a standalone sit-and-play activity table.",
+      "features": [
+        "Speed-adjustable rear wheels for different learning stages",
+        "Mini piano keys, rotating gears, telephone handset, and shape sorters",
+        "Ergonomic handle that prevents bow legs in toddlers",
+        "Smooth edges and water-weight tank for extra stability"
+      ],
+      "ageGroup": "6-24 Months",
+      "sku": "RWT-BT-009",
+      "createdAt": "2026-11-03T09:10:00.000Z"
+    },
+    {
+      "id": "prod-10",
+      "name": "Giant Wooden Tumbling Blocks Tower (54 Pcs Premium Pine Wood)",
+      "urduName": "لکڑی کا جائنٹ ٹاور بلاکس فیملی گیم",
+      "category": "board-games",
+      "price": 1850,
+      "originalPrice": 2600,
+      "discountPercent": 29,
+      "isOffer": true,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isFlashSale": false,
+      "stockQuantity": 30,
+      "rating": 4.8,
+      "reviewsCount": 22,
+      "images": [
+        "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Classic suspenseful stacking game made with polished splinter-free natural pine wood. Perfect for family nights, birthday parties, and developing fine motor precision.",
+      "features": [
+        "54 finely sanded solid hardwood blocks",
+        "Includes 4 dice for optional competitive number rules",
+        "Reinforced heavy-duty zippered canvas carry bag",
+        "Timeless entertainment for all ages from 4 to 80"
+      ],
+      "ageGroup": "All Ages",
+      "sku": "RWT-BG-010",
+      "createdAt": "2026-11-04T15:30:00.000Z"
+    },
+    {
+      "id": "prod-11",
+      "name": "Super High-Speed RC Stunt Drift Car with 360 Flips & LED Lights",
+      "urduName": "اسٹنٹ ڈرفٹ کار مع 360 پلٹی اور ایل ای ڈی لائٹس",
+      "category": "rc-vehicles",
+      "price": 2150,
+      "originalPrice": 3200,
+      "discountPercent": 33,
+      "isOffer": true,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isFlashSale": true,
+      "stockQuantity": 20,
+      "rating": 4.8,
+      "reviewsCount": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Double-sided stunt tumbler car that flips, spins, rolls over, and keeps going! Features multi-colored neon wheel rims that illuminate while performing insane spins.",
+      "features": [
+        "Drives on both sides: never gets stuck upside down",
+        "High-grip rubber wheels with rapid 360-degree rotation",
+        "Rechargeable li-ion battery with quick USB charging",
+        "Crash-proof shock-absorbing plastic shell"
+      ],
+      "ageGroup": "5+ Years",
+      "sku": "RWT-RC-011",
+      "createdAt": "2026-11-05T08:00:00.000Z"
+    },
+    {
+      "id": "prod-12",
+      "name": "Avenger Super Heroes 6-in-1 Articulated Action Figure Collection",
+      "urduName": "سپر ہیروز 6 ان 1 ایکشن فگر سیٹ مع لائٹ چیسٹ",
+      "category": "action-figures",
+      "price": 2950,
+      "originalPrice": 4200,
+      "discountPercent": 30,
+      "isOffer": true,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isFlashSale": false,
+      "stockQuantity": 16,
+      "rating": 4.9,
+      "reviewsCount": 27,
+      "images": [
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Set of 6 fully poseable 7-inch superhero figures featuring light-up chest arc reactors and movable joints at head, shoulders, elbows, and knees.",
+      "features": [
+        "Pack includes Iron Hero, Spider Web Hero, Captain Shield, Green Titan, Thunder God & Bat Knight",
+        "Push-button glowing LED chest light on each hero",
+        "Movable articulated arms, legs, and swivel head",
+        "Premium gift packaging box ready for birthdays"
+      ],
+      "ageGroup": "4+ Years",
+      "sku": "RWT-AF-012",
+      "createdAt": "2026-11-06T10:00:00.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "rc-vehicles",
+      "name": "RC Cars & Vehicles",
+      "urduName": "ریموٹ کنٹرول گاڑیاں",
+      "icon": "Car",
+      "badge": "Popular",
+      "description": "High-speed rock crawlers, drift cars, helicopters & stunt vehicles"
+    },
+    {
+      "id": "educational",
+      "name": "Educational & STEM",
+      "urduName": "تعلیمی و سائنسی کھلونے",
+      "icon": "GraduationCap",
+      "badge": "Brain Booster",
+      "description": "Robotics kits, magnetic blocks, phonics learning tablets & solar toys"
+    },
+    {
+      "id": "dolls-pretend",
+      "name": "Dolls & Pretend Play",
+      "urduName": "گڑیا اور کچن سیٹ",
+      "icon": "Heart",
+      "badge": "Trending",
+      "description": "Dollhouses, kitchen cooking sets, doctor play kits & fashion dolls"
+    },
+    {
+      "id": "ride-on",
+      "name": "Ride-On & Outdoor",
+      "urduName": "سواری اور باہر کے کھلونے",
+      "icon": "Bike",
+      "badge": "Action",
+      "description": "Electric rechargeable jeeps, kick scooters, tricycles & sports balls"
+    },
+    {
+      "id": "action-figures",
+      "name": "Action Figures & Heroes",
+      "urduName": "ایکشن فگرز اور سپر ہیروز",
+      "icon": "Shield",
+      "badge": "Hot Deals",
+      "description": "Transformers, Marvel heroes, dinosaur roar figures & robot warriors"
+    },
+    {
+      "id": "baby-toddler",
+      "name": "Baby & Toddler Toys",
+      "urduName": "چھوٹے بچوں کے کھلونے",
+      "icon": "Baby",
+      "badge": "Safe & Soft",
+      "description": "Musical rattles, soft plush toys, crawling buddies & activity cubes"
+    },
+    {
+      "id": "board-games",
+      "name": "Board Games & Puzzles",
+      "urduName": "بورڈ گیمز اور پزلز",
+      "icon": "Dices",
+      "badge": "Family Fun",
+      "description": "Ludo, Chess, Jenga wooden blocks, 3D puzzles & strategy games"
+    }
+  ],
+  "promos": [
+    {
+      "code": "REHAN10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 1500,
+      "description": "10% OFF on all orders above Rs. 1,500",
+      "validUntil": "2026-12-31"
+    },
+    {
+      "code": "SUPERTOY",
+      "discountType": "fixed",
+      "discountValue": 500,
+      "minOrderAmount": 4000,
+      "description": "Flat Rs. 500 OFF on orders above Rs. 4,000",
+      "validUntil": "2026-12-31"
+    },
+    {
+      "code": "FAQIRWALI5",
+      "discountType": "percentage",
+      "discountValue": 5,
+      "minOrderAmount": 1000,
+      "description": "Special 5% Local Punjab discount",
+      "validUntil": "2026-12-31"
+    }
+  ],
+  "orders": [
+    {
+      "id": "RWT-63188",
+      "orderDate": "2026-11-07 12:40",
+      "customerName": "Zeeshan Tariq",
+      "customerPhone": "03281509141",
+      "city": "Faqirwali",
+      "deliveryAddress": "Ward 3, Faqirwali 124",
+      "orderNotes": "",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "4WD Rock Crawler Monster Remote Control Off-Road Truck",
+          "price": 3850,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 3850,
+      "discount": 385,
+      "couponCode": "REHAN10",
+      "shippingFee": 0,
+      "totalAmount": 3465,
+      "status": "Pending Confirmation",
+      "createdAt": "2026-11-07T12:40:07.592Z"
+    },
+    {
+      "id": "RWT-10821",
+      "orderDate": "2026-11-05 14:32",
+      "customerName": "Muhammad Arshad",
+      "customerPhone": "03007654321",
+      "city": "Faqirwali",
+      "deliveryAddress": "Mohallah Model Town, Ward #4, Faqirwali 124",
+      "orderNotes": "Please call before dispatching",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "4WD Rock Crawler Monster Remote Control Off-Road Truck",
+          "price": 3850,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 3850,
+      "discount": 385,
+      "couponCode": "REHAN10",
+      "shippingFee": 0,
+      "totalAmount": 3465,
+      "status": "Delivered",
+      "createdAt": "2026-11-05T14:32:00.000Z"
+    },
+    {
+      "id": "RWT-10834",
+      "orderDate": "2026-11-06 18:15",
+      "customerName": "Sana Fatima",
+      "customerPhone": "03218765432",
+      "city": "Haroonabad",
+      "deliveryAddress": "Near Al-Razi Hospital, Circular Road, Haroonabad",
+      "orderNotes": "Gift wrap if possible please",
+      "items": [
+        {
+          "productId": "prod-3",
+          "name": "Luxury Villa 3-Story Dollhouse with LED Lights & Furniture Set",
+          "price": 5490,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 5490,
+      "discount": 500,
+      "couponCode": "SUPERTOY",
+      "shippingFee": 0,
+      "totalAmount": 4990,
+      "status": "Dispatched",
+      "createdAt": "2026-11-06T18:15:00.000Z"
+    },
+    {
+      "id": "RWT-10842",
+      "orderDate": "2026-11-07 09:20",
+      "customerName": "Zahid Mehmood",
+      "customerPhone": "03339876543",
+      "city": "Bahawalnagar",
+      "deliveryAddress": "House 12, Street 3, Gulshan-e-Iqbal, Bahawalnagar",
+      "orderNotes": "Please deliver after 2 PM",
+      "items": [
+        {
+          "productId": "prod-6",
+          "name": "Transforming Robot Car with One-Button RC Deform & 360 Spin",
+          "price": 2450,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 4900,
+      "discount": 490,
+      "couponCode": "REHAN10",
+      "shippingFee": 0,
+      "totalAmount": 4410,
+      "status": "Pending Confirmation",
+      "createdAt": "2026-11-07T09:20:00.000Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "authorName": "Muhammad Tariq (Faqirwali)",
+      "rating": 5,
+      "comment": "Zabardast quality! Mere betay ko bohot pasand aya. Rock crawler paths pe aur kachi mitti me asani se chalta hai. Delivery Faqirwali me bohot fast mili.",
+      "date": "2026-10-29",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-1",
+      "authorName": "Usman Ali (Haroonabad)",
+      "rating": 5,
+      "comment": "Battery timing is great. Rehan bhai on WhatsApp was very helpful and responsive.",
+      "date": "2026-11-01",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-2",
+      "authorName": "Ayesha Bibi (Bahawalnagar)",
+      "rating": 5,
+      "comment": "Smart robot is wonderful. It repeats words and dances nicely. Children are learning English words too!",
+      "date": "2026-11-03",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-4",
+      "productId": "prod-6",
+      "authorName": "Bilal Hassan (Multan)",
+      "rating": 4,
+      "comment": "Transformer car is super fun, 1 button dabate hi car robot ban jati hai. Good value for money.",
+      "date": "2026-11-05",
+      "verifiedPurchase": true
+    }
+  ],
+  "messages": [],
+  "siteSettings": {
+    "storeName": "Rehan Wining Toys",
+    "tagline": "Punjab's Premier Toy Store - Wholesale & Retail",
+    "phone": "+923281509141",
+    "whatsapp": "+923281509141",
+    "location": "Punjab, Faqirwali 124, Pakistan",
+    "city": "Faqirwali",
+    "province": "Punjab",
+    "freeShippingThreshold": 3000,
+    "standardShippingFee": 200,
+    "bannerNotice": "🎉 Mega Discount Festival! Upto 50% OFF on RC Cars, STEM Toys & Dolls! Free delivery on orders over Rs. 3,000 across Punjab! 🚚",
+    "flashSaleActive": true,
+    "flashSaleEndsAt": "2026-11-10T12:39:51.705Z"
+  }
+}
